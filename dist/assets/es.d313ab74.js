@@ -1,0 +1,1 @@
+const e={pt:"Portugu\xE9s",en:"Ingl\xE9s",es:"Espa\xF1ol"},s={config:"Configura\xE7\xF5es"},o={home:"Hogar",products:"Productos",resources:"Recursos",pricing:"Precios",contact:"Cont\xE1ctenos",login:"INICIAR SESI\xD3N",register:"REG\xCDSTRESE"},t={languages:e,title:s,header:o};export{t as default,o as header,e as languages,s as title};

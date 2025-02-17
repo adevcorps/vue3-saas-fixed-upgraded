@@ -1,0 +1,1 @@
+const o={pt:"Portugu\xEAs",en:"Ingl\xEAs",es:"Espanhol"},e={config:"Configura\xE7\xF5es"},s={home:"Casa",products:"Produtos",resources:"Recursos",pricing:"Pre\xE7os",contact:"Entre em contato conosco",login:"LOG IN",register:"REGISTRAR"},t={languages:o,title:e,header:s};export{t as default,s as header,o as languages,e as title};
